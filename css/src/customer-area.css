@@ -1,12 +1,27 @@
 .customerarea-espace .ButtonGroup {
-  /*cursor: pointer;*/
-  width: 100%;
-  outline: 1px solid transparent;
-  -webkit-transition: outline-color 0.3s ease-out;
-  -moz-transition: outline-color 0.3s ease-out;
-  -o-transition: outline-color 0.3s ease-out;
-  transition: outline-color 0.3s ease-out;
+    width: initial;
+    outline: transparent solid 1px;
+    -webkit-transition: outline-color .3s ease-out;
+    -moz-transition: outline-color .3s ease-out;
+    -o-transition: outline-color .3s ease-out;
+    transition: outline-color .3s ease-out;
 }
+.customerarea-espace .RemoveButton a {
+    color: #AAA;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+.customerarea-espace .InfrastructureDesc {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: myriad-pro;
+}
+
+.Infra-toggle-action a {
+    color: #333;
+}
+
 .customerarea-espace .ButtonGroup_button.Button {
   cursor: pointer;
   box-sizing: border-box;
@@ -25,6 +40,7 @@
   text-align: center;
   -webkit-box-shadow: inset 0 -2px 0 #b0bec5;
   box-shadow: inset 0 -2px 0 #b0bec5;
+    display: inline-block;
 }
 .customerarea-espace .ButtonGroup_button.active {
   color: #455A64;
@@ -54,10 +70,10 @@
 }
 .customerarea-espace .ButtonGroup_button input[type=radio],
 .customerarea-espace .ButtonGroup_button input[type=checkbox] {
-  display: none;
+  /*display: none;*/
 }
 .customerarea-espace input[readonly] {
-    color: #777;  
+    color: #777;
 }
 .customerarea-espace .ButtonGroup_button.Button.disabled,
 .customerarea-espace .ButtonGroup_button.Button.disabled:hover {
@@ -933,11 +949,20 @@
 }
 
 .customerarea-espace .headshot {
-    border: 5px solid rgba(255, 255, 255, .1);
+    border: 0px solid rgba(255,255,255,.1);
     border-radius: 50%;
-    height: 56px;
-    width: 56px
+    height: 55px;
+    width: 55px;
+    margin: 5px;
 }
+.customerarea-espace .Infracard .headshot {
+    border: 0 solid rgba(255,255,255,.1);
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin: 12px;
+}
+
 
 .customerarea-espace .opportunity-container,
 .customerarea-espace .quote-container {
@@ -1017,29 +1042,69 @@
     text-transform: uppercase;
 }
 
+.customerarea-espace .Infra-toggle-action {
+    padding: 10px;
+}
+
+.customerarea-espace .AskQuote, .customerarea-espace .card .Infra-toggle-action {
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 0px;
+    text-align: left;
+}
+.customerarea-espace .Infracard {
+    background-color: #FBFBFB;
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    border: 1px solid #CFD8DC;
+    border-radius: 3px;
+    background: #ECEFF1;
+
+}
+
 .customerarea-espace .AskQuote a {
     color: #4CAF50;
 }
 .customerarea-espace .card {
+    border: 1px solid #CFD8DC;
+    border-radius: 3px;
+    background-color: #FBFBFB;
     box-sizing: border-box;
-    padding: 20px 0 0 0;
-    border: 1px solid #cfd8dc;
-    border-radius: 4px;
+    padding: 20px 0 0;    
     box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    
 }
-.customerarea-espace .card .toggle-action{
+
+.customerarea-espace .card .toggle-action {
+    text-align: center;
+    background-color: #f5f5f5;
+    width: 100%;
     margin-top: 20px;
-    text-align: right;
-    padding: 15px 0;
     border-top: 1px solid #eee;
     font-size: 12px;
-    font-weight: 600;
-    text-transform: uppercase;
+    font-weight: 600;   
+    padding-left: 0px;
+    margin-left: 0px;
+    padding: 0px;
 }
-.customerarea-espace .card .text-note.title{
-    text-transform: uppercase;
+
+
+.customerarea-espace .card .toggle-action a {
+    color: #999;
+}
+
+.customerarea-espace .card .text-note.title {
+    background-color: #f0f0f0;
     font-size: 11px;
     font-weight: 600;
+    padding-left: 10px;   
+}
+.customerarea-espace .Infracard .text-note.title {
+    background-color: #CFD8DC;
+    font-size: 11px;
+    font-weight: 600;
+    padding-left: 10px;
+    text-transform: uppercase;
 }
 
 
@@ -1067,9 +1132,17 @@
     padding-left: 30px;
 }
 
-.customerarea-espace .content-separator.certList {    
+.customerarea-espace .content-separator.certList {
     padding-bottom: 0px;
 }
+
+.customerarea-espace .Tools div :not(row) {
+    background-color: white;
+}
+.customerarea-espace .Edit .card {
+    padding: 20px;
+}
+
 
 @media (max-width:400px) {
     .customerarea-espace .content-separator .pull-right,
@@ -1096,7 +1169,7 @@
         padding-bottom: 60px
     }
     .customerarea-espace div.Tabs_TabOff,
-    .customerarea-espace div.Tabs_TabOn    
+    .customerarea-espace div.Tabs_TabOn
     /**.customerarea-espace li.Tabs_TabOff**/    /**.customerarea-espace li.Tabs_TabOn**/ {
         width: 24%;
         overflow: hidden;
@@ -1169,9 +1242,12 @@
         float: none;
         display: table-cell;
     }
+
+   
     .customerarea-espace .headshot {
         margin-top: 20px
     }
+	
     .customerarea-espace .v-separator.pull-right {
         display: none
     }

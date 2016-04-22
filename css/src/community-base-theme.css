@@ -1,3 +1,6 @@
+.all-content-wrapper {
+    min-height: 400px;	
+}
 .searchview-close, .with-search .header-logo, .with-search .menu-entries {
     visibility: hidden
 }
@@ -316,7 +319,7 @@ form {
     width: 100%
 }
 .header {
-    height: 92px
+    height: 91px
 }
 .header_store {
     height: 56px
@@ -613,7 +616,18 @@ input[type=search].inpage-search-input {
     left: 50%;
     position: absolute;
     margin-left: -10px;
-    border-color: transparent transparent #BCC5CC
+    border-color: transparent transparent #BCC5CC;
+}
+
+.menu-arrow {
+    content: "";
+    border-style: solid;
+    border-width: 6px;
+    bottom: -0px;
+    left: 50%;
+    position: absolute; 
+    margin-left: -6px;   
+    border-color: transparent transparent #fff;
 }
 .top-menu-item a {
     color: #AAA;
@@ -640,16 +654,30 @@ input[type=search].inpage-search-input {
     float: left
 }
 .menu-item {
+    color: #666;
+    display: block;
+    position: relative;
     margin-right: 9%;
     font-size: 13px
 }
+.menu-item.active {
+    padding: 7px 15px;
+    background-color: rgba(0, 0, 0, 0.18);
+    margin-top: -8px;
+}
+
 .menu-item a {
     color: #666;
     display: block
 }
-.menu-item a:hover, .menu-item.active a.menu-academy-overview, .menu-item.active a.menu-download, .menu-item.active a.menu-faq, .menu-item.active a.menu-forge, .menu-item.active a.menu-forums, .menu-item.active a.menu-home, .menu-item.active a.menu-ideas, .menu-item.active a.menu-ipp, .menu-item.active a.menu-knowledgebase, .menu-item.active a.menu-leaderboard, .menu-item.active a.menu-licensing, .menu-item.active a.menu-portal, .menu-item.active a.menu-support, .menu-item.active a.menu-training, .menu-item.active a.menu-sizing, .menu-item.active a.menu-isv {
-    color: #333
+.menu-item.active a.menu-academy-overview, .menu-item.active a,.menu-item.active a.menu-download, .menu-item.active a.menu-faq, .menu-item.active a.menu-forge, .menu-item.active a.menu-forums, .menu-item.active a.menu-home, .menu-item.active a.menu-ideas, .menu-item.active a.menu-ipp, .menu-item.active a.menu-knowledgebase, .menu-item.active a.menu-leaderboard, .menu-item.active a.menu-licensing, .menu-item.active a.menu-portal, .menu-item.active a.menu-support, .menu-item.active a.menu-training, .menu-item.active a.menu-sizing, .menu-item.active a.menu-isv {
+    color: #fff;
 }
+
+.menu-item a:hover {
+    color: #333 ;
+}
+
 .menu-item a.menu-forums:before {
     background: url(/CommunityBaseTheme/img/icons.png) -5px -842px no-repeat;
     width: 23px;
@@ -892,6 +920,11 @@ input[type=search].inpage-search-input {
     content: "";
     float: left;
     color: #333
+}
+
+.menu-item.active a:before, .menu-item.active a:hover:before {
+    filter: brightness(0) invert(1);
+    -webkit-filter: brightness(0) invert(1);
 }
 .menu-item a.menu-sizing:before {
     width: 18px;
@@ -3587,7 +3620,15 @@ div.Feedback_AjaxWait img {
 .ProfileMenu .osicon-arrow-triangle-up:before {
     position: absolute;
     top: -9px;
-    left: 110px;
+    left: 126px;
+}
+.rectangleMessage {
+    width: 32px;
+}
+@-moz-document url-prefix() {
+    .rectangleMessage {
+        width: 44px;
+    }
 }
 .MenuRow {
     color: #596669;
@@ -3598,8 +3639,8 @@ div.Feedback_AjaxWait img {
     border-bottom: 1px solid #e7eced
 }
 .DropdownActive {
-    height: 38px;
-    background-color: rgba(255, 255, 255, .11)
+    height: 55px;
+    background-color: rgba(255,255,255,.11);
 }
 .header-headshot {
     padding: 9px;
@@ -3618,7 +3659,7 @@ div.Feedback_AjaxWait img {
         white-space: nowrap
     }
     .top-menu-item.big-entry {
-        width: 99px
+        width: 83px
     }
     .top-menu-item {
         width: 84px;
@@ -3687,6 +3728,16 @@ div.Feedback_AjaxWait img {
     }
 }
 @media (max-width:767px) {
+    .all-content-wrapper {
+        min-height: initial;
+		padding: 0 10px;
+    }
+	
+	.all-content-wrapper input[type=text] {
+		box-sizing: border-box;
+		min-height: 30px;
+	}
+	
     .header-icon, .header-icon-logout {
         margin-left: 0
     }
