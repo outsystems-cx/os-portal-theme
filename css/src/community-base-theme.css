@@ -3928,6 +3928,11 @@ div.Feedback_AjaxWait img {
         padding: 10px 0;  
     }
 
+    .leader-table-total-position-row:last-child{
+        font-weight: 700;  
+        padding: 10px 3px;
+    }
+
     .leader-table-element-row{
         padding: 10px 5px;
         border-top: 1px solid #e2e2e2;
@@ -4013,11 +4018,15 @@ div.Feedback_AjaxWait img {
 
     .leader-table-total-position-row {
         text-align: center;
-        margin-top: 17px;
+        margin-top: 18px;
         margin-left: 14px;
         line-height: 30px;
      }  
 
+    .leader-table-total-position-row:last-child {
+        font-weight: inherit;
+        padding: initial;
+    }
     .leader-table-user-row {
         display: flex;
         line-height: 30px;
@@ -4064,6 +4073,11 @@ div.Feedback_AjaxWait img {
         text-align: center;
         line-height: 50px;
      }  
+
+     .leader-table-total-position-row:last-child {
+        font-weight: inherit;
+        padding: initial;
+    }
 
     .leader-table-user-row {
         display: block;
