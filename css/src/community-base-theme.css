@@ -3957,6 +3957,7 @@ div.Feedback_AjaxWait img {
     .leader-table-element.leader-table-cell-caption span:last-child {
         left: 65px;
         position: absolute;
+        font-size: 14px;
     }   
 
     .leader-table-user-row .ladder-table-user-name{
