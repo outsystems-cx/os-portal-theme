@@ -3932,6 +3932,8 @@ div.Feedback_AjaxWait img {
 
     .leader-table-total-position-row{
         font-weight: 700;
+        text-align: center;
+        line-height: 50px;
     }
 
     .leader-table-element.leader-table-cell-caption,
@@ -4016,7 +4018,7 @@ div.Feedback_AjaxWait img {
     .ladder-table-user-name {
         margin-left: 10px;
         width: 100%;
-        margin-top: 19px;
+        margin-top: 13px;
     }
 
     .leader-table-element{
@@ -4026,7 +4028,7 @@ div.Feedback_AjaxWait img {
 @media (min-width:980px){
 
     .leader-table-title{
-        text-align: right;
+        text-align: left;
     }
 
     .leader-table-element.table-header,
@@ -4048,7 +4050,7 @@ div.Feedback_AjaxWait img {
 
     .leader-table-total-position-row {
         text-align: center;
-        line-height: 70px;
+        line-height: 50px;
      }  
 
     .leader-table-user-row {
@@ -4056,13 +4058,13 @@ div.Feedback_AjaxWait img {
     }
 
     .leader-table-content-wrapper .row{
-        padding-top: 0;
+        padding: 2px;
     }
 
     .ladder-table-user-name {
         margin-left: 10px;
         width: 144px;
-        margin-top: inherit;
+        margin-top: 18px;
     }
 
     .leader-table-element{
