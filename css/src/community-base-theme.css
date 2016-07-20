@@ -3955,7 +3955,7 @@ div.Feedback_AjaxWait img {
     }
 
     .leader-table-element.leader-table-cell-caption span:last-child {
-        left: 65px;
+        left: 70px;
         position: absolute;
         font-size: 14px;
     }   
@@ -4056,7 +4056,7 @@ div.Feedback_AjaxWait img {
     .leader-table-element-row {
          text-align: center;
          color: #999;
-         line-height: 70px;
+         line-height: 50px;
          margin-left: 22px;
     }
 
