@@ -2682,8 +2682,9 @@ a.post-reply-action:hover:before {
 .leader-table-element-row {
     text-align: center;
     color: #999;
-    margin-top: 18px;
-    margin-left: 22px;;
+    line-height: 70px;
+    //margin-top: 18px;
+    //margin-left: 22px;
 }
 .leader-table-title {
     padding-top: 20px
@@ -2694,11 +2695,13 @@ a.post-reply-action:hover:before {
 }
 .leader-table-total-position-row {
     text-align: center;
-    margin-top: 17px;
-    margin-left: 14px;
+    line-height: 70px;
+    //margin-top: 17px;
+    //margin-left: 14px;
 }
 .leader-table-user-row {
-    display: flex;
+    line-height: 70px;
+    //display: flex;
 }
 .leader-icon-profile {
     background: url(/CommunityBaseTheme/img/icons.png) -66px -881px no-repeat;
@@ -2747,9 +2750,9 @@ a.post-reply-action:hover:before {
     margin-top: 10px
 }
 
-.leader-table-content-wrapper .row{
-    padding-top: 3px;
-}
+//.leader-table-content-wrapper .row{
+//    padding-top: 3px;
+//}
 
 .leader-table-zebra-odd-row {
     background-color: #F9F9F9
@@ -2759,6 +2762,7 @@ a.post-reply-action:hover:before {
 }
 .ladder-table-user-name {
     margin-left: 10px;
+    width: 144px; //old
     margin-top: 19px;
 }
 .leader-screen-second-row {
