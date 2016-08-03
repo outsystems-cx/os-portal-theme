@@ -342,8 +342,8 @@ form {
     color: #BABABA
 }
 .header-logged-out {
-    height: 57px;
-    line-height: 57px
+    height: 100%;
+    line-height: 53px
 }
 .header-logged-out a:link, .header-logged-out a:visited {
     position: relative;
@@ -3643,7 +3643,7 @@ div.Feedback_AjaxWait img {
         content: "Partner"
     }
     .header-logo a:link {
-        margin-top: 5px
+        margin: 7px 10px;
     }
     .header-logged-out {
         white-space: nowrap
@@ -3827,15 +3827,18 @@ div.Feedback_AjaxWait img {
         margin-bottom: 25px
     }
     .backgroungcontainerheader {
-        background: #000
+        background: #000;
+        height: 100%;
     }
     .header-logo {
-        padding: 5px 0
+        padding: 5px 0;
+        height: 40px;
     }
     .login-info-wrapper {
         right: 60px;
         position: absolute;
-        top: 0
+        top: 0;
+        height: 50px;
     }
     .home-msg-device-center {
         margin: 0 auto;
