@@ -328,12 +328,12 @@ form {
     height: 57px
 }
 .header-logo {
-    padding: 14px 0
+    padding: 15px 0
 }
 .header-logo a:link {
     display: block;
     text-indent: -999px;
-    margin-top: 2px
+    margin-top: 0px
 }
 .header-logo a img {
     display: block
