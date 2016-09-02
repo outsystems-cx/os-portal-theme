@@ -3982,14 +3982,24 @@ div.Feedback_AjaxWait img {
     .leader-table-zebra-odd-row{
         background-color: #ffF;
     }
+    .footer-site .social-icons li a:link {
+        margin-right: 0;
+    }
+    .footer-site .FooterTextMargins{
+        margin: 0;
+    }
 
 }
 @media (max-width:979px) {
     .SelectedBrowseAppsIcon:after, .SelectedBrowseAppsIcon:before, .SelectedCreateApplicationIcon:after, .SelectedCreateApplicationIcon:before, .SelectedGuidedTutorialIcon:after, .SelectedGuidedTutorialIcon:before, .SelectedManageAppsIcon:after, .SelectedManageAppsIcon:before {
         border-width: 1px
     }
+    
 }
 @media (min-width:768px) and (max-width:979px) {
+    .menu-placeholder {
+        margin-top: 3px;
+    }
     .searchview-close {
         right: 130px
     }
