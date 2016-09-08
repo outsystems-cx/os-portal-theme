@@ -481,16 +481,6 @@ body.videos {
     width: 1px;
 }
 
-.learn-espace .bottomSecondRowLastColumn {
-    line-height: 70px;
-}
-
-
-.learn-espace .bottomSecondRowLastColumn a {
-    color: white;
-}
-
-
 .learn-espace .HtmlContent {
     list-style-type:disc;
     font-size:15px;
