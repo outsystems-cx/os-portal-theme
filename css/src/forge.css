@@ -486,10 +486,11 @@
 .forge-espace div.Card.Gray {
     background-color: #e6e6e6;
     color: #333;
-    padding: 38px 15px 15px 20px;
+    padding: 37px 14px 14px 19px;
     border: 1px solid #ccc;
-    border-radius: 3px
+    border-radius: 3px;
 }
+
 .forge-espace div.Card.White {
     background-color: #FFF;
     color: #333;
@@ -653,7 +654,7 @@
     content: '';
     position: absolute;
     width: 10px;
-    height: 32px;
+    height: 31px;
     background: #AAA;
     -webkit-transform: skew(10deg);
     -ms-transform: skew(10deg);
@@ -1402,9 +1403,17 @@
 .forge-espace a.btn.followButton {
     line-height: 17px;
 }
+.forge-espace .ValidationMessage {
+    position: absolute;
+    bottom: -22px;
+    top: inherit;
+    left: 0;
+}
+
 .forge-espace .retireButton {
     margin-left: 240px;
 }
+
 @media only screen and (-webkit-min-device-pixel-ratio:2), only screen and (min-resolution:144dpi) {
     .forge-espace .chzn-container .chzn-results-scroll-down span, .forge-espace .chzn-container .chzn-results-scroll-up span, .forge-espace .chzn-container-multi .chzn-choices .search-choice .search-choice-close, .forge-espace .chzn-container-single .chzn-search input, .forge-espace .chzn-container-single .chzn-single abbr, .forge-espace .chzn-container-single .chzn-single div b, .forge-espace .chzn-rtl .chzn-search input {
         background-image: url(/Forge/img/chosensprite@2x.png) !important;
