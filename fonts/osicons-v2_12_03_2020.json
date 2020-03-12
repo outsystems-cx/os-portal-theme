@@ -1,0 +1,1217 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-5Bs4ERl99/u2AUfpOZF2F0cdfNby7+Vd9teUshXUBPo5CjwECR7IAEf+weI/eCk5tF7K1h3O8hd8k0+P/HePeg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e41b3811197df7fbb60147e939917617.css" />
+  
+    <link crossorigin="anonymous" media="all" integrity="sha512-dRPIbvB+Im3JYNSUdjNYS1p2e07iZZ3FLtIzUIy/bM9uVZ2cVV4b9UGpMEsYcTPOvNxpOmCKZ1pEedFGZ6czGA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-7513c86ef07e226dc960d4947633584b.css" />
+    
+    
+    
+    
+
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>os-portal-theme/osicons-v2.json at master · outsystems-cx/os-portal-theme</title>
+    <meta name="description" content="Contribute to outsystems-cx/os-portal-theme development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    <meta name="twitter:image:src" content="https://avatars0.githubusercontent.com/u/16036614?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="outsystems-cx/os-portal-theme" /><meta name="twitter:description" content="Contribute to outsystems-cx/os-portal-theme development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/16036614?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="outsystems-cx/os-portal-theme" /><meta property="og:url" content="https://github.com/outsystems-cx/os-portal-theme" /><meta property="og:description" content="Contribute to outsystems-cx/os-portal-theme development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDg1NTcxODUwOjk4MzM0OGYxNDYzNGRlZDQzMWJmZjBjNDcwZmIyN2U1MGEyMDM0NDBkN2Y5NDE3YWVjOTcxZDQyOTkyNTBjYTA=--c9910bf18a0d837a9782c588014a2bf60b5a1e13">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+
+  <meta name="request-id" content="CDB8:22CED:D8C89B:1337E4E:5E6A5DA7" data-pjax-transient="true" /><meta name="html-safe-nonce" content="b415453f24c8a2ad74d5a0d44c2c0dd3f77b4d65" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9vdXRzeXN0ZW1zLWN4L29zLXBvcnRhbC10aGVtZS90cmVlL21hc3Rlci9mb250cyIsInJlcXVlc3RfaWQiOiJDREI4OjIyQ0VEOkQ4Qzg5QjoxMzM3RTRFOjVFNkE1REE3IiwidmlzaXRvcl9pZCI6IjM0NzU0NTk4MzA2NTk4NzU4MjMiLCJyZWdpb25fZWRnZSI6ImFtcyIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="60b9d95bde99b1a82bfc494140183dadd9c0d2a8bf8ab8591818e630664178bc" data-pjax-transient="true" />
+
+
+
+  <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-actor-id" content="6208687" /><meta name="octolytics-actor-login" content="diegoalmeida" /><meta name="octolytics-actor-hash" content="7a9eac086835270ffbe404bdc9c74e2c972b264a7fa9f66ea253a71cdfba7e42" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+  <meta class="js-ga-set" name="userId" content="1c20d7b0aa8c1815fb3bf97a7f44ad37">
+
+<meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="diegoalmeida">
+
+      <meta name="expected-hostname" content="github.com">
+
+      <meta name="js-proxy-site-detection-payload" content="MTc5ZjlmYjBhMDMyYWVmNDA2MzVmNDE0ZTcyNDhmYjI1MmQ1YTE0YzgzMTUxMmI4M2VkYzE4OGZmMzRjOTA3Ynx7InJlbW90ZV9hZGRyZXNzIjoiODAuMjUxLjE3NC40NSIsInJlcXVlc3RfaWQiOiJDREI4OjIyQ0VEOkQ4Qzg5QjoxMzM3RTRFOjVFNkE1REE3IiwidGltZXN0YW1wIjoxNTg0MDI5MDk2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
+
+  <meta http-equiv="x-pjax-version" content="6dcb8bf7747141e725bf997273ba589c">
+  
+
+      <link href="https://github.com/outsystems-cx/os-portal-theme/commits/master.atom" rel="alternate" title="Recent Commits to os-portal-theme:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/outsystems-cx/os-portal-theme git https://github.com/outsystems-cx/os-portal-theme.git">
+
+  <meta name="octolytics-dimension-user_id" content="16036614" /><meta name="octolytics-dimension-user_login" content="outsystems-cx" /><meta name="octolytics-dimension-repository_id" content="47578629" /><meta name="octolytics-dimension-repository_nwo" content="outsystems-cx/os-portal-theme" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="40881425" /><meta name="octolytics-dimension-repository_parent_nwo" content="kelter-antunes/os-portal-theme" /><meta name="octolytics-dimension-repository_network_root_id" content="40881425" /><meta name="octolytics-dimension-repository_network_root_nwo" content="kelter-antunes/os-portal-theme" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
+
+
+    <link rel="canonical" href="https://github.com/outsystems-cx/os-portal-theme/blob/master/fonts/osicons-v2.json" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-in env-production page-responsive page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <span class="Progress progress-pjax-loader position-fixed width-full js-pjax-loader-bar">
+      <span class="progress-pjax-loader-bar top-0 left-0" style="width: 0%;"></span>
+    </span>
+
+    
+    
+
+
+
+          <header class="Header js-details-container Details flex-wrap flex-lg-nowrap p-responsive" role="banner">
+
+    <div class="Header-item d-none d-lg-flex">
+      <a class="Header-link" href="https://github.com/orgs/outsystems-cx/dashboard" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+
+    </div>
+
+    <div class="Header-item d-lg-none">
+      <button class="Header-link btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"/></svg>
+      </button>
+    </div>
+
+    <div class="Header-item Header-item--full flex-column flex-lg-row width-full flex-order-2 flex-lg-order-none mr-0 mr-lg-3 mt-3 mt-lg-0 Details-content--hidden">
+        <div class="header-search flex-self-stretch flex-lg-self-auto mr-0 mr-lg-3 mb-3 mb-lg-0 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="47578629" data-scoped-search-url="/outsystems-cx/os-portal-theme/search" data-unscoped-search-url="/search" action="/outsystems-cx/os-portal-theme/search" accept-charset="UTF-8" method="get">
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search or jump to…"
+          data-unscoped-placeholder="Search or jump to…"
+          data-scoped-placeholder="Search or jump to…"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search or jump to…"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" value="zlR7ejKFUNvTk9qVLDwN5kIRdzptwIo0rq7qs8/hEosSEC8QoORibDn3ADJj9Z0nHl2kQW0MCFIybc1y4Udrxg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="text-gray">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+    <li class="d-flex flex-justify-center flex-items-center p-0 f5 js-jump-to-suggestion">
+      <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
+    </li>
+</ul>
+
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+
+        <nav class="d-flex flex-column flex-lg-row flex-self-stretch flex-lg-self-auto" aria-label="Global">
+    <a class="Header-link d-block d-lg-none py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:dashboard:user" aria-label="Dashboard" href="/dashboard">
+      Dashboard
+</a>
+
+  <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
+    Pull requests
+</a>
+  <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
+    Issues
+</a>
+    <div class="mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15">
+      <a class="js-selected-navigation-item Header-link" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
+        Marketplace
+</a>      
+
+    </div>
+
+  <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+    Explore
+</a>
+
+
+    <a class="Header-link d-block d-lg-none mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" href="https://github.com/diegoalmeida">
+      <img class="avatar" height="20" width="20" alt="@diegoalmeida" src="https://avatars3.githubusercontent.com/u/6208687?s=60&amp;v=4" />
+      diegoalmeida
+</a>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eXBqev50CtQx5JwEwNU1+8nuBN8WJ2o/7nYUnakF4AtZeAZqu7ryxekIOM4o6PKeowTAdrDtlCvRQB5yJ7oy4Q==" />
+      <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
+        <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
+        Sign out
+      </button>
+</form></nav>
+
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-lg-none position-relative">
+      <div class="css-truncate css-truncate-target width-fit position-absolute left-0 right-0 text-center">
+              <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+    <a class="Header-link" href="/outsystems-cx">outsystems-cx</a>
+    /
+    <a class="Header-link" href="/outsystems-cx/os-portal-theme">os-portal-theme</a>
+
+</div>
+    </div>
+
+    <div class="Header-item mr-0 mr-lg-3 flex-order-1 flex-lg-order-none">
+      
+
+    <a aria-label="You have no unread notifications" class="Header-link notification-indicator position-relative tooltipped tooltipped-sw js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:6208687" href="/notifications/beta">
+        <span class="js-indicator-modifier mail-status "></span>
+        <svg class="octicon octicon-bell" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"/></svg>
+</a>
+    </div>
+
+
+    <div class="Header-item position-relative d-none d-lg-flex">
+      <details class="details-overlay details-reset">
+  <summary class="Header-link"
+      aria-label="Create new…"
+      data-ga-click="Header, create new, icon:add">
+    <svg class="octicon octicon-plus" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"/></svg> <span class="dropdown-caret"></span>
+  </summary>
+  <details-menu class="dropdown-menu dropdown-menu-sw">
+    
+<a role="menuitem" class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a role="menuitem" class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a role="menuitem" class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a role="menuitem" class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+
+  </details-menu>
+</details>
+
+    </div>
+
+    <div class="Header-item position-relative mr-0 d-none d-lg-flex">
+      
+  <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/diegoalmeida/feature_preview/indicator_check.json">
+
+  <summary class="Header-link"
+    aria-label="View profile and more"
+    data-ga-click="Header, show menu, icon:avatar">
+    <img class="avatar " alt="@diegoalmeida" width="20" height="20" src="https://avatars3.githubusercontent.com/u/6208687?s=60&amp;v=4">
+
+
+      <span class="feature-preview-indicator js-feature-preview-indicator" hidden></span>
+    <span class="dropdown-caret"></span>
+  </summary>
+  <details-menu class="dropdown-menu dropdown-menu-sw mt-2" style="width: 180px">
+    <div class="header-nav-current-user css-truncate"><a role="menuitem" class="no-underline user-profile-link px-3 pt-2 pb-2 mb-n2 mt-n1 d-block" href="/diegoalmeida" data-ga-click="Header, go to profile, text:Signed in as">Signed in as <strong class="css-truncate-target">diegoalmeida</strong></a></div>
+    <div role="none" class="dropdown-divider"></div>
+
+      <div class="pl-3 pr-3 f6 user-status-container js-user-status-context pb-1" data-url="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1">
+        
+<div class="js-user-status-container
+    user-status-compact rounded-1 px-2 py-1 mt-2
+    border
+  " data-team-hovercards-enabled>
+  <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:16036614,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:6208687,&quot;originating_url&quot;:&quot;https://github.com/outsystems-cx/os-portal-theme/blob/master/fonts/osicons-v2.json&quot;}}" data-hydro-click-hmac="d0f11af968361ad976e2b123d03d07768b6738ae7c86aa37e1e070f6bd1a4c0b">
+      <div class="d-flex">
+        <div class="f6 lh-condensed user-status-header
+          d-inline-block v-align-middle
+            user-status-emoji-only-header circle
+            pr-2
+"
+            style="max-width: 29px"
+          >
+          <div class="user-status-emoji-container flex-shrink-0 mr-1 mt-1 lh-condensed-ultra v-align-bottom" style="">
+            <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 01-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 01-1.45-2.17A6.59 6.59 0 011.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 018 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
+          </div>
+        </div>
+        <div class="
+          d-inline-block v-align-middle
+          
+          
+           css-truncate css-truncate-target 
+           user-status-message-wrapper f6"
+           style="line-height: 20px;" >
+          <div class="d-inline-block text-gray-dark v-align-text-top text-left">
+              <span class="text-gray ml-2">Set status</span>
+          </div>
+        </div>
+      </div>
+    </summary>
+    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="c6kBz3Gjhrs8d9wSVhRjAmaT1xhauBT+iWtbA5sXmUiQNnM5XQizjSA1UJM1gJL+P6ABbhYj1ylBOWHb3dm/rA==" />
+        <div class="Box-header bg-gray border-bottom p-3">
+          <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
+            <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+          </button>
+          <h3 class="Box-title f5 text-bold text-gray-dark">Edit status</h3>
+        </div>
+        <input type="hidden" name="emoji" class="js-user-status-emoji-field" value="">
+        <input type="hidden" name="organization_id" class="js-user-status-org-id-field" value="">
+        <div class="px-3 py-2 text-gray-dark">
+          <div class="js-characters-remaining-container position-relative mt-2">
+            <div class="input-group d-table form-group my-0 js-user-status-form-group">
+              <span class="input-group-button d-table-cell v-align-middle" style="width: 1%">
+                <button type="button" aria-label="Choose an emoji" class="btn-outline btn js-toggle-user-status-emoji-picker btn-open-emoji-picker p-0">
+                  <span class="js-user-status-original-emoji" hidden></span>
+                  <span class="js-user-status-custom-emoji"></span>
+                  <span class="js-user-status-no-emoji-icon" >
+                    <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 01-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 01-1.45-2.17A6.59 6.59 0 011.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 018 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
+                  </span>
+                </button>
+              </span>
+              <text-expander keys=": @" data-mention-url="/autocomplete/user-suggestions" data-emoji-url="/autocomplete/emoji">
+                <input
+                  type="text"
+                  autocomplete="off"
+                  data-no-org-url="/autocomplete/user-suggestions"
+                  data-org-url="/suggestions?mention_suggester=1"
+                  data-maxlength="80"
+                  class="d-table-cell width-full form-control js-user-status-message-field js-characters-remaining-field"
+                  placeholder="What's happening?"
+                  name="message"
+                  value=""
+                  aria-label="What is your current status?">
+              </text-expander>
+              <div class="error">Could not update your status, please try again.</div>
+            </div>
+            <div style="margin-left: 53px" class="my-1 text-small label-characters-remaining js-characters-remaining" data-suffix="remaining" hidden>
+              80 remaining
+            </div>
+          </div>
+          <include-fragment class="js-user-status-emoji-picker" data-url="/users/status/emoji"></include-fragment>
+          <div class="overflow-auto ml-n3 mr-n3 px-3 border-bottom" style="max-height: 33vh">
+            <div class="user-status-suggestions js-user-status-suggestions collapsed overflow-hidden">
+              <h4 class="f6 text-normal my-3">Suggestions:</h4>
+              <div class="mx-3 mt-2 clearfix">
+                  <div class="float-left col-6">
+                      <button type="button" value=":palm_tree:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
+                          On vacation
+                        </div>
+                      </button>
+                      <button type="button" value=":face_with_thermometer:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="face_with_thermometer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png">🤒</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
+                          Out sick
+                        </div>
+                      </button>
+                  </div>
+                  <div class="float-left col-6">
+                      <button type="button" value=":house:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">🏠</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
+                          Working from home
+                        </div>
+                      </button>
+                      <button type="button" value=":dart:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">🎯</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
+                          Focusing
+                        </div>
+                      </button>
+                  </div>
+              </div>
+            </div>
+            <div class="user-status-limited-availability-container">
+              <div class="form-checkbox my-0">
+                <input type="checkbox" name="limited_availability" value="1" class="js-user-status-limited-availability-checkbox" data-default-message="I may be slow to respond." aria-describedby="limited-availability-help-text-truncate-true-compact-true" id="limited-availability-truncate-true-compact-true">
+                <label class="d-block f5 text-gray-dark mb-1" for="limited-availability-truncate-true-compact-true">
+                  Busy
+                </label>
+                <p class="note" id="limited-availability-help-text-truncate-true-compact-true">
+                  When others mention you, assign you, or request your review,
+                  GitHub will let them know that you have limited availability.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="d-inline-block f5 mr-2 pt-3 pb-2" >
+  <div class="d-inline-block mr-1">
+    Clear status
+  </div>
+
+  <details class="js-user-status-expire-drop-down f6 dropdown details-reset details-overlay d-inline-block mr-2">
+    <summary class="f5 btn-link link-gray-dark border px-2 py-1 rounded-1" aria-haspopup="true">
+      <div class="js-user-status-expiration-interval-selected d-inline-block v-align-baseline">
+        Never
+      </div>
+      <div class="dropdown-caret"></div>
+    </summary>
+
+    <ul class="dropdown-menu dropdown-menu-se pl-0 overflow-auto" style="width: 220px; max-height: 15.5em">
+      <li>
+        <button type="button" class="btn-link dropdown-item js-user-status-expire-button ws-normal" title="Never">
+          <span class="d-inline-block text-bold mb-1">Never</span>
+          <div class="f6 lh-condensed">Keep this status until you clear your status or edit your status.</div>
+        </button>
+      </li>
+      <li class="dropdown-divider" role="none"></li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-03-12T16:34:56+00:00">
+            in 30 minutes
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-03-12T17:04:56+00:00">
+            in 1 hour
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-03-12T20:04:56+00:00">
+            in 4 hours
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2020-03-12T23:59:59+00:00">
+            today
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="this week" value="2020-03-15T23:59:59+00:00">
+            this week
+          </button>
+        </li>
+    </ul>
+  </details>
+  <input class="js-user-status-expiration-date-input" type="hidden" name="expires_at" value="">
+</div>
+
+          <include-fragment class="js-user-status-org-picker" data-url="/users/status/organizations"></include-fragment>
+        </div>
+        <div class="d-flex flex-items-center flex-justify-between p-3 border-top">
+          <button type="submit" disabled class="width-full btn btn-primary mr-2 js-user-status-submit">
+            Set status
+          </button>
+          <button type="button" disabled class="width-full js-clear-user-status-button btn ml-2 ">
+            Clear status
+          </button>
+        </div>
+</form>    </details-dialog>
+  </details>
+</div>
+
+      </div>
+      <div role="none" class="dropdown-divider"></div>
+
+
+    <a role="menuitem" class="dropdown-item" href="/diegoalmeida" data-ga-click="Header, go to profile, text:your profile">Your profile</a>
+
+    <a role="menuitem" class="dropdown-item" href="/diegoalmeida?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories">Your repositories</a>
+
+    <a role="menuitem" class="dropdown-item" href="/diegoalmeida?tab=projects" data-ga-click="Header, go to projects, text:your projects">Your projects</a>
+
+    <a role="menuitem" class="dropdown-item" href="/diegoalmeida?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">Your stars</a>
+      <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists">Your gists</a>
+
+
+
+
+
+    <div role="none" class="dropdown-divider"></div>
+      
+<div id="feature-enrollment-toggle" class="hide-sm hide-md feature-preview-details position-relative">
+  <button
+    type="button"
+    class="dropdown-item btn-link"
+    role="menuitem"
+    data-feature-preview-trigger-url="/users/diegoalmeida/feature_previews"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/outsystems-cx/os-portal-theme/blob/master/fonts/osicons-v2.json&quot;,&quot;user_id&quot;:6208687}}"
+    data-feature-preview-close-hmac="43aeaa6db089154c59ddc71122e72d42d5ef689593beccf7d2374c8299e2a3e7"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/outsystems-cx/os-portal-theme/blob/master/fonts/osicons-v2.json&quot;,&quot;user_id&quot;:6208687}}"
+    data-hydro-click-hmac="6250856f363681771e970d171684f35a75474cb4542690171612a4e4a14dcb18"
+  >
+    Feature preview
+  </button>
+    <span class="feature-preview-indicator js-feature-preview-indicator" hidden></span>
+</div>
+
+    <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
+    <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZRKAJCFyL+3L8gOEbHC9vCVVJX3l/0pHsZCnRjqFlMZFGuw0ZLzX/BMep06ETXrZT7/h1EM1tFOOpq2ptDpGLA==" />
+      
+      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
+        Sign out
+      </button>
+      <input type="text" name="required_field_304c" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1584029096404" class="form-control" /><input type="hidden" name="timestamp_secret" value="57577de747c4292c26f00ce22b8047b3ba8dc5edaab5e240116b06c4c88ba49c" class="form-control" />
+</form>  </details-menu>
+</details>
+
+    </div>
+
+  </header>
+
+      
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+    <div id="js-flash-container">
+
+</div>
+
+
+      
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main  >
+      
+
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead hx_repohead readability-menu bg-gray-light pb-0 pt-0 pt-lg-3">
+
+    <div class="d-flex container-lg mb-4 p-responsive d-none d-lg-flex">
+
+      <div class="flex-auto min-width-0 width-fit mr-3">
+        <h1 class="public  d-flex flex-wrap flex-items-center break-word float-none ">
+    <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+  <span class="author ml-1 flex-self-stretch" itemprop="author">
+    <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/outsystems-cx/hovercard" href="/outsystems-cx">outsystems-cx</a>
+  </span>
+  <span class="path-divider flex-self-stretch">/</span>
+  <strong itemprop="name" class="mr-2 flex-self-stretch">
+    <a data-pjax="#js-repo-pjax-container" href="/outsystems-cx/os-portal-theme">os-portal-theme</a>
+  </strong>
+  
+</h1>
+
+  <span class="fork-flag mt-1" data-repository-hovercards-enabled>
+    <span class="text">forked from <a data-hovercard-type="repository" data-hovercard-url="/kelter-antunes/os-portal-theme/hovercard" href="/kelter-antunes/os-portal-theme">kelter-antunes/os-portal-theme</a></span>
+  </span>
+
+      </div>
+
+      <ul class="pagehead-actions flex-shrink-0 " >
+
+
+
+
+  <li>
+    
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IxQ7yRqSJxiDIoFcr2d6jB9vnEAxb/dVnzI/Rc67qQYMHMcb0srQsuK4kBgyJuDnIbXrlnl1/CB2v8e1iuDXrw==" />      <input type="hidden" name="repository_id" value="47578629">
+
+      <details class="details-reset details-overlay select-menu float-left">
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:47578629,&quot;originating_url&quot;:&quot;https://github.com/outsystems-cx/os-portal-theme/blob/master/fonts/osicons-v2.json&quot;,&quot;user_id&quot;:6208687}}" data-hydro-click-hmac="a4452aa934941328d69bf0cdcd5db13830a931a17ed412e2174d6547109d916c" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+              <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+              Watch
+          </span>
+</summary>        <details-menu
+          class="select-menu-modal position-absolute mt-5"
+          style="z-index: 99;">
+          <div class="select-menu-header">
+            <span class="select-menu-title">Notifications</span>
+          </div>
+          <div class="select-menu-list">
+            <button type="submit" name="do" value="included" class="select-menu-item width-full" aria-checked="true" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Not watching</span>
+                <span class="description">Be notified only when participating or @mentioned.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                  Watch
+                </span>
+              </div>
+            </button>
+
+            <button type="submit" name="do" value="release_only" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Releases only</span>
+                <span class="description">Be notified of new releases, and when participating or @mentioned.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                  Unwatch releases
+                </span>
+              </div>
+            </button>
+
+            <button type="submit" name="do" value="subscribed" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Watching</span>
+                <span class="description">Be notified of all conversations.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                  Unwatch
+                </span>
+              </div>
+            </button>
+
+            <button type="submit" name="do" value="ignore" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Ignoring</span>
+                <span class="description">Never be notified.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-mute v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
+                  Stop ignoring
+                </span>
+              </div>
+            </button>
+          </div>
+        </details-menu>
+      </details>
+        <a class="social-count js-social-count"
+          href="/outsystems-cx/os-portal-theme/watchers"
+          aria-label="8 users are watching this repository">
+          8
+        </a>
+</form>
+  </li>
+
+  <li>
+      <div class="js-toggler-container js-social-container starring-container ">
+    <form class="starred js-social-form" action="/outsystems-cx/os-portal-theme/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1Xc9FA6MZ7FXQV1eK4C/XGjfaLvK1FLHYfht25PvuCpaVHsJ6f5ZaU1spwKSxc8HEqgGMBljSdjGqBE+xvgULQ==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar outsystems-cx/os-portal-theme" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:47578629,&quot;originating_url&quot;:&quot;https://github.com/outsystems-cx/os-portal-theme/blob/master/fonts/osicons-v2.json&quot;,&quot;user_id&quot;:6208687}}" data-hydro-click-hmac="236d0a48ac734a28887ea0ad726c04c048306e52e7be2c2d69d7858c67492fc3" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+
+        Unstar
+</button>        <a class="social-count js-social-count" href="/outsystems-cx/os-portal-theme/stargazers"
+           aria-label="0 users starred this repository">
+           0
+        </a>
+</form>
+    <form class="unstarred js-social-form" action="/outsystems-cx/os-portal-theme/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="+ARXEl89RJD1Q45CvjW2BVhKX5/ro8JRfkb4sb+mkNbYVsjT747oDQuLWIO/j7K3LTSN4ZxMZPy0tFypK4vUSA==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star outsystems-cx/os-portal-theme" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:47578629,&quot;originating_url&quot;:&quot;https://github.com/outsystems-cx/os-portal-theme/blob/master/fonts/osicons-v2.json&quot;,&quot;user_id&quot;:6208687}}" data-hydro-click-hmac="6b53876b03940f78475f6d483ec18e3de92bff762f7b12cf14cc36fd5ad03527" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+
+        Star
+</button>        <a class="social-count js-social-count" href="/outsystems-cx/os-portal-theme/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+          <details class="details-reset details-overlay details-overlay-dark d-inline-block float-left">
+            <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:47578629,&quot;originating_url&quot;:&quot;https://github.com/outsystems-cx/os-portal-theme/blob/master/fonts/osicons-v2.json&quot;,&quot;user_id&quot;:6208687}}" data-hydro-click-hmac="59847e07c0390908edb982489a79a9dea0739513bd11b602e599f65e784f6433" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" title="Fork your own copy of outsystems-cx/os-portal-theme to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+              Fork
+</summary>            <details-dialog
+              class="anim-fade-in fast Box Box--overlay d-flex flex-column"
+              src="/outsystems-cx/os-portal-theme/fork?fragment=1"
+              preload>
+              <div class="Box-header">
+                <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+                  <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+                </button>
+                <h3 class="Box-title">Fork os-portal-theme</h3>
+              </div>
+              <div class="overflow-auto text-center">
+                <include-fragment>
+                  <div class="octocat-spinner my-3" aria-label="Loading..."></div>
+                  <p class="f5 text-gray">If this dialog fails to load, you can visit <a href="/outsystems-cx/os-portal-theme/fork">the fork page</a> directly.</p>
+                </include-fragment>
+              </div>
+            </details-dialog>
+          </details>
+
+    <a href="/outsystems-cx/os-portal-theme/network/members" class="social-count"
+       aria-label="2 users forked this repository">
+      2
+    </a>
+  </li>
+</ul>
+
+    </div>
+      
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax clearfix container-lg p-responsive d-none d-lg-block"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+    aria-label="Repository"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /outsystems-cx/os-portal-theme" href="/outsystems-cx/os-portal-theme">
+      <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg></div>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /outsystems-cx/os-portal-theme/pulls" href="/outsystems-cx/os-portal-theme/pulls">
+      <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg></div>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">0</span>
+      <meta itemprop="position" content="4">
+</a>  </span>
+
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement" class="position-relative float-left">
+      <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /outsystems-cx/os-portal-theme/actions" href="/outsystems-cx/os-portal-theme/actions">
+        <div class="d-inline"><svg class="octicon octicon-play" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8A7 7 0 110 8a7 7 0 0114 0zm-8.223 3.482l4.599-3.066a.5.5 0 000-.832L5.777 4.518A.5.5 0 005 4.934v6.132a.5.5 0 00.777.416z"/></svg></div>
+        Actions
+</a>
+    </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /outsystems-cx/os-portal-theme/projects" href="/outsystems-cx/os-portal-theme/projects">
+      <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg></div>
+      Projects
+      <span class="Counter">0</span>
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /outsystems-cx/os-portal-theme/wiki" href="/outsystems-cx/os-portal-theme/wiki">
+      <div class="d-inline"><svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg></div>
+      Wiki
+</a>
+    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy token_scanning code_scanning /outsystems-cx/os-portal-theme/network/alerts" href="/outsystems-cx/os-portal-theme/network/alerts">
+      <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"/></svg></div>
+      Security
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /outsystems-cx/os-portal-theme/pulse" href="/outsystems-cx/os-portal-theme/pulse">
+      <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg></div>
+      Insights
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings repo_actions_settings notifications /outsystems-cx/os-portal-theme/settings" href="/outsystems-cx/os-portal-theme/settings">
+      <div class="d-inline"><svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg></div>
+      Settings
+</a>
+</nav>
+
+  <div class="reponav-wrapper reponav-small d-lg-none">
+  <nav class="reponav js-reponav text-center no-wrap"
+       itemscope
+       itemtype="http://schema.org/BreadcrumbList">
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /outsystems-cx/os-portal-theme" href="/outsystems-cx/os-portal-theme">
+        <span itemprop="name">Code</span>
+        <meta itemprop="position" content="1">
+</a>    </span>
+
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /outsystems-cx/os-portal-theme/pulls" href="/outsystems-cx/os-portal-theme/pulls">
+        <span itemprop="name">Pull requests</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="4">
+</a>    </span>
+
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /outsystems-cx/os-portal-theme/projects" href="/outsystems-cx/os-portal-theme/projects">
+          <span itemprop="name">Projects</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="5">
+</a>      </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /outsystems-cx/os-portal-theme/actions" href="/outsystems-cx/os-portal-theme/actions">
+          <span itemprop="name">Actions</span>
+          <meta itemprop="position" content="6">
+</a>      </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /outsystems-cx/os-portal-theme/wiki" href="/outsystems-cx/os-portal-theme/wiki">
+          <span itemprop="name">Wiki</span>
+          <meta itemprop="position" content="7">
+</a>      </span>
+
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy token_scanning code_scanning /outsystems-cx/os-portal-theme/network/alerts" href="/outsystems-cx/os-portal-theme/network/alerts">
+        <span itemprop="name">Security</span>
+        <meta itemprop="position" content="8">
+</a>
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /outsystems-cx/os-portal-theme/pulse" href="/outsystems-cx/os-portal-theme/pulse">
+        Pulse
+</a>
+
+  </nav>
+</div>
+
+
+  </div>
+
+  
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+<div class="container-lg clearfix new-discussion-timeline  p-responsive">
+  <div class="repository-content ">
+
+    
+    
+
+
+  
+
+
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/outsystems-cx/os-portal-theme/blob/9b5fee479b8cb365f0487b3579ced8c1a80fec91/fonts/osicons-v2.json">Permalink</a>
+
+    <!-- blob contrib key: blob_contributors:v22:77735564c430cc3d055a709c2b755e87 -->
+    
+
+    <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
+      <span class="d-flex flex-justify-between width-full width-md-auto">
+        
+<details class="details-reset details-overlay branch-select-menu " id="branch-select-menu">
+  <summary class="btn btn-sm css-truncate"
+           data-hotkey="w"
+           title="Switch branches or tags">
+    <i>Branch:</i>
+    <span class="css-truncate-target" data-menu-button>master</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/outsystems-cx/os-portal-theme/refs/master/fonts/osicons-v2.json?source_action=show&amp;source_controller=blob" preload>
+    <div class="SelectMenu-modal">
+      <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
+        <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+      </include-fragment>
+    </div>
+  </details-menu>
+</details>
+
+        <div class="BtnGroup flex-shrink-0 d-md-none">
+          <a href="/outsystems-cx/os-portal-theme/find/master"
+                class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+                data-pjax
+                data-hotkey="t">
+            Find file
+          </a>
+          <clipboard-copy value="fonts/osicons-v2.json" class="btn btn-sm BtnGroup-item">
+            Copy path
+          </clipboard-copy>
+        </div>
+      </span>
+      <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/outsystems-cx/os-portal-theme"><span>os-portal-theme</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/outsystems-cx/os-portal-theme/tree/master/fonts"><span>fonts</span></a></span><span class="separator">/</span><strong class="final-path">osicons-v2.json</strong>
+      </h2>
+
+      <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
+        <a href="/outsystems-cx/os-portal-theme/find/master"
+              class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+              data-pjax
+              data-hotkey="t">
+          Find file
+        </a>
+        <clipboard-copy value="fonts/osicons-v2.json" class="btn btn-sm BtnGroup-item">
+          Copy path
+        </clipboard-copy>
+      </div>
+    </div>
+
+    
+
+
+
+    <include-fragment src="/outsystems-cx/os-portal-theme/contributors/master/fonts/osicons-v2.json" class="Box Box--condensed commit-loader">
+      <div class="Box-body bg-blue-light f6">
+        Fetching contributors&hellip;
+      </div>
+
+      <div class="Box-body d-flex flex-items-center" >
+        <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
+
+
+
+
+
+    <div class="Box mt-3 position-relative
+      ">
+      
+<div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
+  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+
+      1 lines (1 sloc)
+      <span class="file-info-divider"></span>
+    32.4 KB
+  </div>
+
+  <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/outsystems-cx/os-portal-theme/raw/master/fonts/osicons-v2.json">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/outsystems-cx/os-portal-theme/blame/master/fonts/osicons-v2.json">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/outsystems-cx/os-portal-theme/commits/master/fonts/osicons-v2.json">History</a>
+    </div>
+
+
+    <div>
+          <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
+             data-platforms="windows,mac"
+             href="https://desktop.github.com"
+             aria-label="Open this file in GitHub Desktop"
+             data-ga-click="Repository, open with desktop">
+              <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
+          </a>
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/outsystems-cx/os-portal-theme/edit/master/fonts/osicons-v2.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qmb+Sc65OlJu+Fw/qdaXR98BkAqXsDoP01JcILjcwWcURazdpY9A+mCoZC13WC7zEuMf2hjx4qmgrZ0/7MC5lw==" />
+            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+            </button>
+</form>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/outsystems-cx/os-portal-theme/delete/master/fonts/osicons-v2.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xUOOgSi6B8x4sUhCl04QCwpc2mqzMlb2JJ3ByqCITVfvGdRh0SA6/ACwF/LlQ55C6ZqSJu1rdEksNrbCnjuq6A==" />
+            <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+              aria-label="Delete this file" data-disable-with>
+              <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+            </button>
+</form>    </div>
+  </div>
+</div>
+
+
+
+
+      
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-json ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">{&quot;IcoMoonType&quot;:&quot;selection&quot;,&quot;icons&quot;:[{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M355.276 78.64l-0.004 78.572h315.353l0.014-78.572h78.769l-0.014 78.572 156.413 0.037v787.692h-787.591v-787.692l158.287-0.037 0.004-78.572h78.769zM827.021 434.165h-630.075l0.016 431.982h630.075l-0.016-431.982zM551.385 511.711v275.692h-274.878v-275.692h274.878zM472.615 590.454h-117.366v118.154h117.366v-118.154zM827.038 235.993h-630.075l-0.016 119.403h630.075l0.016-119.403z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;grid&quot;:0,&quot;tags&quot;:[&quot;calendar&quot;]},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:50,&quot;id&quot;:4,&quot;name&quot;:&quot;calendar&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59675},&quot;setIdx&quot;:0,&quot;setId&quot;:2,&quot;iconIdx&quot;:0},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M512 0c282.77 0 512 229.23 512 512s-229.23 512-512 512c-282.77 0-512-229.23-512-512s229.23-512 512-512zM512 93.091c-231.357 0-418.909 187.552-418.909 418.909s187.552 418.909 418.909 418.909c231.357 0 418.909-187.552 418.909-418.909s-187.552-418.909-418.909-418.909zM558.545 289.493v239.29l202.915 126.778-49.331 78.946-246.675-154.14v-290.874h93.091z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;grid&quot;:0,&quot;tags&quot;:[&quot;clock&quot;]},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:51,&quot;id&quot;:3,&quot;name&quot;:&quot;clock&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59676},&quot;setIdx&quot;:0,&quot;setId&quot;:2,&quot;iconIdx&quot;:1},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M74.595 114.36v636.225h357.876v79.528h-79.528v79.528h318.112v-79.528h-79.528v-79.528h357.876v-636.225h-874.809zM869.876 671.056h-715.753v-477.169h715.753v477.169z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;grid&quot;:0,&quot;tags&quot;:[&quot;desktop&quot;]},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:52,&quot;id&quot;:2,&quot;name&quot;:&quot;desktop&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59677},&quot;setIdx&quot;:0,&quot;setId&quot;:2,&quot;iconIdx&quot;:2},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M433.231 238.495h157.538v78.769h-157.538v-78.769z&quot;,&quot;M433.231 827.077h157.538v78.769h-157.538v-78.769z&quot;,&quot;M669.538 78.769h-315.077c-65.255 0-118.154 52.899-118.154 118.154v630.154c0 65.255 52.899 118.154 118.154 118.154h315.077c65.255 0 118.154-52.899 118.154-118.154v-630.154c0-65.255-52.899-118.154-118.154-118.154zM354.462 157.538h315.077c21.752 0 39.385 17.633 39.385 39.385v630.154c0 21.752-17.633 39.385-39.385 39.385h-315.077c-21.752 0-39.385-17.633-39.385-39.385v-630.154c0-21.752 17.633-39.385 39.385-39.385z&quot;],&quot;attrs&quot;:[{},{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;grid&quot;:0,&quot;tags&quot;:[&quot;phone&quot;]},&quot;attrs&quot;:[{},{},{}],&quot;properties&quot;:{&quot;order&quot;:53,&quot;id&quot;:1,&quot;name&quot;:&quot;phone&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59678},&quot;setIdx&quot;:0,&quot;setId&quot;:2,&quot;iconIdx&quot;:3},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M256 665.6c84.756 0 152.586 21.478 197.93 71.491 44.425 48.998 58.070 115.476 58.070 184.509v102.4h-102.4v-102.4c0-58.214-11.956-94.136-31.53-115.727-18.655-20.577-53.226-37.873-122.070-37.873s-103.414 17.295-122.070 37.873c-19.575 21.591-31.53 57.513-31.53 115.727v102.4h-102.4v-102.4c0-69.033 13.644-135.511 58.070-184.509 45.345-50.012 113.174-71.491 197.93-71.491zM768 358.4c84.756 0 152.586 21.479 197.929 71.492 44.426 48.998 58.071 115.475 58.071 184.508v102.4h-102.4v-102.4c0-58.214-11.955-94.136-31.529-115.727-18.657-20.576-53.228-37.873-122.071-37.873s-103.414 17.297-122.071 37.873c-19.574 21.591-31.529 57.512-31.529 115.727v102.4h-102.4v-102.4c0-69.033 13.645-135.51 58.071-184.508 45.343-50.013 113.172-71.492 197.929-71.492zM256 307.2c20.171 0 40.144 3.973 58.78 11.692s35.568 19.033 49.831 33.296c14.263 14.263 25.577 31.196 33.296 49.831s11.692 38.609 11.692 58.78c0 20.171-3.973 40.144-11.692 58.783-7.719 18.632-19.033 35.564-33.296 49.828s-31.196 25.58-49.831 33.295c-18.636 7.721-38.609 11.694-58.78 11.694s-40.144-3.973-58.78-11.694c-18.636-7.716-35.568-19.031-49.831-33.295s-25.577-31.196-33.296-49.828c-7.719-18.638-11.692-38.611-11.692-58.783s3.973-40.144 11.692-58.78c7.719-18.636 19.033-35.568 33.296-49.831s31.196-25.577 49.831-33.296c18.636-7.719 38.609-11.692 58.78-11.692zM256 409.6c-6.724 0-13.382 1.325-19.593 3.897s-11.856 6.344-16.611 11.099c-4.754 4.754-8.525 10.399-11.099 16.611s-3.897 12.87-3.897 19.593c0 6.724 1.325 13.382 3.897 19.593s6.344 11.856 11.099 16.611c4.754 4.754 10.399 8.525 16.611 11.099s12.87 3.897 19.593 3.897c6.724 0 13.382-1.325 19.593-3.897s11.856-6.344 16.611-11.099c4.754-4.754 8.525-10.399 11.099-16.611s3.897-12.87 3.897-19.593c0-6.724-1.325-13.382-3.897-19.593s-6.344-11.856-11.099-16.611c-4.754-4.754-10.399-8.525-16.611-11.099s-12.87-3.897-19.593-3.897zM768 0c20.173 0 40.146 3.973 58.783 11.692 18.632 7.719 35.564 19.033 49.828 33.296s25.58 31.196 33.295 49.831c7.721 18.636 11.694 38.609 11.694 58.78s-3.973 40.144-11.694 58.78c-7.716 18.636-19.031 35.568-33.295 49.831s-31.196 25.577-49.828 33.296c-18.637 7.719-38.61 11.692-58.783 11.692s-40.146-3.973-58.783-11.692c-18.632-7.719-35.564-19.033-49.828-33.296s-25.58-31.196-33.295-49.831c-7.721-18.636-11.694-38.609-11.694-58.78s3.973-40.144 11.694-58.78c7.716-18.636 19.031-35.568 33.295-49.831s31.196-25.577 49.833-33.296c18.632-7.719 38.605-11.692 58.778-11.692zM768 102.4c-6.723 0-13.384 1.325-19.594 3.897s-11.853 6.344-16.609 11.099c-4.756 4.754-8.525 10.399-11.1 16.611-2.57 6.212-3.896 12.87-3.896 19.593s1.326 13.382 3.896 19.593c2.575 6.212 6.344 11.856 11.1 16.611s10.399 8.525 16.609 11.099c6.211 2.573 12.872 3.897 19.594 3.897s13.384-1.325 19.594-3.897c6.211-2.573 11.853-6.344 16.609-11.099s8.525-10.399 11.1-16.611c2.57-6.212 3.896-12.87 3.896-19.593s-1.326-13.382-3.896-19.593c-2.575-6.212-6.344-11.856-11.1-16.611s-10.399-8.525-16.609-11.099c-6.211-2.573-12.872-3.897-19.594-3.897z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;grid&quot;:0,&quot;tags&quot;:[&quot;users&quot;]},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:54,&quot;id&quot;:0,&quot;name&quot;:&quot;users&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59679},&quot;setIdx&quot;:0,&quot;setId&quot;:2,&quot;iconIdx&quot;:4},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M869.483 669.538l97.565 65.567c25.149 16.901 22.597 51.374-3.19 65.492l-4.791 2.272-410.889 167.089c-20.517 8.337-43.507 9.263-64.582 2.776l-7.805-2.78-410.861-167.085c-28.059-11.411-33.973-44.848-12.91-63.912l3.998-3.208 92.205-65.567 93.516 40.244-76.25 47.156 345.136 140.366c0.453 0.184 0.909 0.276 1.363 0.277l1.355-0.272 343.059-139.543-79.054-46.3 92.133-42.571zM869.483 433.231l97.565 65.567c25.149 16.901 22.597 51.374-3.19 65.492l-4.791 2.272-410.889 167.089c-20.517 8.337-43.507 9.263-64.582 2.776l-7.805-2.78-410.861-167.085c-28.059-11.411-33.973-44.848-12.91-63.912l3.998-3.208 92.205-65.567 79.933 37.662-62.666 49.737 345.136 140.366c0.453 0.184 0.909 0.276 1.363 0.277l1.355-0.272 343.059-139.543-73.882-46.021 86.962-42.85zM492.366 82.691c12.481-5.229 26.824-5.229 39.305 0v0l430.029 178.833c30.554 12.708 30.554 55.031 0 67.739v0l-430.047 178.816c-12.554 5.229-26.751 5.229-39.305 0v0l-430.047-178.816c-30.554-12.708-30.554-55.048 0-67.756v0z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;grid&quot;:0,&quot;tags&quot;:[&quot;layers&quot;]},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:48,&quot;id&quot;:31,&quot;name&quot;:&quot;layers&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59667},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:0},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M512 102.4c226.217 0 409.6 183.384 409.6 409.6 0 226.217-183.383 409.6-409.6 409.6-226.216 0-409.6-183.383-409.6-409.6 0-226.216 183.384-409.6 409.6-409.6zM1024 512c0-282.77-229.233-512-512-512-282.77 0-512 229.23-512 512 0 282.767 229.23 512 512 512 282.767 0 512-229.233 512-512z&quot;,&quot;M358.4 307.2h102.4v409.6h-102.4v-409.6z&quot;,&quot;M563.2 307.2h102.4v409.6h-102.4v-409.6z&quot;],&quot;attrs&quot;:[{},{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;grid&quot;:0,&quot;tags&quot;:[&quot;os-icon-pause&quot;]},&quot;attrs&quot;:[{},{},{}],&quot;properties&quot;:{&quot;order&quot;:49,&quot;id&quot;:30,&quot;name&quot;:&quot;os-icon-pause&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59668},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:1},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M512 910.222c-219.932 0-398.222-178.29-398.222-398.222s178.29-398.222 398.222-398.222c219.932 0 398.222 178.29 398.222 398.222s-178.29 398.222-398.222 398.222zM512 1024c282.772 0 512-229.228 512-512 0-282.77-229.228-512-512-512-282.77 0-512 229.23-512 512 0 282.772 229.23 512 512 512z&quot;,&quot;M455.111 284.444h113.778v113.778h-113.778v-113.778z&quot;,&quot;M455.111 455.111h113.778v284.444h-113.778v-284.444z&quot;],&quot;attrs&quot;:[{},{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;grid&quot;:0,&quot;tags&quot;:[&quot;os-icon-info&quot;]},&quot;attrs&quot;:[{},{},{}],&quot;properties&quot;:{&quot;order&quot;:47,&quot;id&quot;:1,&quot;name&quot;:&quot;os-icon-info&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59660},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:2},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M512 910.222c-219.932 0-398.222-178.29-398.222-398.222s178.29-398.222 398.222-398.222c219.932 0 398.222 178.29 398.222 398.222s-178.29 398.222-398.222 398.222zM512 1024c282.772 0 512-229.228 512-512 0-282.77-229.228-512-512-512-282.77 0-512 229.23-512 512 0 282.772 229.23 512 512 512z&quot;,&quot;M808.226 381.56l-381.559 381.559-210.893-210.892 80.453-80.453 130.44 130.441 301.107-301.108 80.452 80.453z&quot;],&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;grid&quot;:0,&quot;tags&quot;:[&quot;os-icon-validated&quot;]},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:46,&quot;id&quot;:0,&quot;name&quot;:&quot;os-icon-validated&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59666},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:3},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M664.407 204.881h-79.718c-1.428-0.052-3.103-0.081-4.782-0.081-75.912 0-137.782 60.125-140.585 135.351l-0.008 0.255c-0.225 2.18-0.353 4.709-0.353 7.268s0.128 5.090 0.379 7.583l-0.026-0.314v70.342h-79.721c-7.572 0.474-13.594 6.497-14.066 14.025l-0.003 98.52c0.474 7.572 6.497 13.594 14.025 14.070h79.764v253.23c0.474 7.572 6.497 13.594 14.025 14.070h103.211c7.572-0.476 13.594-6.497 14.065-14.024l0.005-253.276h93.788c7.572-0.471 13.594-6.497 14.065-14.024l0.005-98.522c0-4.689 0-4.689-4.69-9.379-2.452-2.468-5.683-4.161-9.293-4.68l-0.087-0.010h-93.788v-60.963c0-28.137 4.69-42.205 42.204-42.205h51.584c7.572-0.474 13.594-6.497 14.065-14.025l0.005-93.832c0-4.689-4.69-9.38-14.070-9.38z&quot;,&quot;M921.6 102.4v819.2h-819.2v-819.2h819.2zM0 0v1024h1024v-1024h-1024z&quot;],&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;facebook&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:8,&quot;id&quot;:0,&quot;name&quot;:&quot;facebook&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59648},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:4},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M819.2 573.747v219.428h-131.656v-206.259c0-52.664-17.556-87.773-65.828-87.773-0.317-0.005-0.691-0.008-1.060-0.008-30.444 0-56.187 20.131-64.645 47.804l-0.128 0.476c-2.959 7.25-4.68 15.662-4.68 24.474 0 2.202 0.108 4.378 0.312 6.518l-0.020-0.271v215.040h-131.656v-386.192h131.656v52.663c23.68-37.26 64.737-61.627 111.488-61.627 2.463 0 4.91 0.068 7.342 0.202l-0.338-0.015c83.384 3.95 149.212 57.052 149.212 175.542zM279.406 226.613c-1.491-0.114-3.229-0.178-4.982-0.178-36.902 0-67.113 28.644-69.612 64.911l-0.012 0.217c1.641 37.234 32.225 66.798 69.714 66.798 1.258 0 2.507-0.033 3.748-0.099l-0.174 0.007c1.905 0.185 4.118 0.29 6.355 0.29 36.632 0 66.67-28.227 69.552-64.117l0.016-0.246c0.001-0.132 0.001-0.288 0.001-0.445 0-37.083-30.062-67.145-67.145-67.145-0.309 0-0.618 0.002-0.926 0.006l-6.536 0.001zM213.577 411.372h131.658v386.196h-131.658v-386.196z&quot;,&quot;M921.6 102.4v819.2h-819.2v-819.2h819.2zM0 0v1024h1024v-1024h-1024z&quot;],&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;linkedin&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:9,&quot;id&quot;:1,&quot;name&quot;:&quot;linkedin&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59649},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:5},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M819.2 328.534c-20.7 9.513-44.754 15.839-70.057 17.642l-0.666 0.038c25.641-15.494 45.537-38.241 57.114-65.387l0.348-0.915c-21.985 10.896-48.343 21.401-75.597 29.878l-3.968 1.062c-23.936-23.679-56.53-38.658-92.611-39.776l-0.21-0.006c-1.070-0.033-2.324-0.051-3.584-0.051-67.615 0-122.658 53.838-124.596 120.985l-0.005 0.179v2.652c-0.124 1.378-0.195 2.981-0.195 4.6 0 7.933 1.699 15.469 4.753 22.265l-0.138-0.344c-105.008-3.619-197.92-52.485-260.32-127.604l-0.468-0.58c-10 17.871-16.398 39.001-17.663 61.502l-0.017 0.38c-0.002 0.258-0.003 0.562-0.003 0.867 0 42.678 22.825 80.027 56.934 100.501l0.53 0.296c-0.904 0.025-1.968 0.039-3.035 0.039-19.89 0-38.629-4.919-55.069-13.609l0.643 0.309c0.665 59.732 44.001 109.149 100.925 119.235l0.738 0.108c-8.476 2.975-18.247 4.695-28.42 4.695-2.443 0-4.862-0.102-7.256-0.297l0.315 0.020c-1.511 0.251-3.254 0.389-5.028 0.389-6.316 0-12.213-1.787-17.212-4.89l0.14 0.082c17.522 49.311 63.784 83.988 118.144 83.988 0.422 0 0.843 0 1.264-0.005h-0.065c-43.949 32.707-99.172 52.541-159.006 53.038l-0.118 0.005h-30.941c54.301 33.326 120.056 53.064 190.422 53.064 1.43 0 2.856-0.010 4.282-0.026h-0.217c2.665 0.072 5.801 0.113 8.948 0.113 192.224 0 348.624-153.38 353.494-344.431l0.010-0.451v-22.1c21.484-17.12 40.34-35.981 56.914-56.75l0.548-0.712z&quot;,&quot;M921.6 102.4v819.2h-819.2v-819.2h819.2zM0 0v1024h1024v-1024h-1024z&quot;],&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;twitter&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:10,&quot;id&quot;:2,&quot;name&quot;:&quot;twitter&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59650},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:6},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M698.182 93.091c-51.414 0-93.091 41.678-93.091 93.091 0 16.379 4.189 31.64 11.52 44.913 15.923 28.825 46.518 48.178 81.571 48.178 51.414 0 93.091-41.678 93.091-93.091s-41.677-93.091-93.091-93.091zM512 186.182c0-102.825 83.358-186.182 186.182-186.182s186.182 83.356 186.182 186.182c0 102.825-83.358 186.182-186.182 186.182-51.554 0-98.178-20.965-131.854-54.747l-200.996 143.567c4.582 16.177 7.032 33.232 7.032 50.816s-2.45 34.639-7.032 50.818l200.996 143.565c33.676-33.783 80.3-54.747 131.854-54.747 102.824 0 186.182 83.358 186.182 186.182s-83.358 186.182-186.182 186.182c-102.824 0-186.182-83.358-186.182-186.182 0-17.585 2.448-34.639 7.033-50.818l-200.995-143.565c-33.677 33.783-80.301 54.747-131.856 54.747-102.825 0-186.182-83.358-186.182-186.182 0-102.825 83.356-186.182 186.182-186.182 51.555 0 98.179 20.965 131.856 54.747l200.995-143.567c-4.585-16.177-7.033-33.231-7.033-50.816zM186.182 418.909c-51.413 0-93.091 41.678-93.091 93.091 0 51.414 41.678 93.091 93.091 93.091 35.051 0 65.647-19.354 81.57-48.179 7.331-13.27 11.521-28.532 11.521-44.912s-4.19-31.642-11.521-44.912c-15.922-28.826-46.518-48.179-81.57-48.179zM698.182 744.727c-35.053 0-65.648 19.354-81.571 48.179-7.331 13.27-11.52 28.532-11.52 44.912 0 51.414 41.677 93.091 93.091 93.091s93.091-41.677 93.091-93.091c0-51.414-41.677-93.091-93.091-93.091z&quot;],&quot;width&quot;:884,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;share&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:11,&quot;id&quot;:3,&quot;name&quot;:&quot;share&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59651},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:7},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M0 0h1408v1024h-1408v-1024zM267.032 128l436.968 305.878 436.966-305.878h-873.935zM1280 186.922l-576 403.2-576-403.2v709.078h1152v-709.078z&quot;],&quot;width&quot;:1408,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;email&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:12,&quot;id&quot;:4,&quot;name&quot;:&quot;email&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59652},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:8},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M289.333 227.556h734.667v568.889h-734.667l-289.333-284.444 289.333-284.444zM336.667 341.333l-171.111 170.667 171.111 170.667h573.555v-341.333h-573.555z&quot;,&quot;M478.744 512c0 44.884-37.557 81.271-83.886 81.271s-83.886-36.387-83.886-81.271c0-44.884 37.557-81.27 83.886-81.27s83.886 36.386 83.886 81.27z&quot;],&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;tag&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:13,&quot;id&quot;:5,&quot;name&quot;:&quot;tag&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59653},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:9},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M512 592.452l-414.884 414.885-80.453-80.452 414.885-414.885-414.885-414.884 80.453-80.453 414.884 414.885 414.885-414.885 80.452 80.453-414.885 414.884 414.885 414.885-80.452 80.452-414.885-414.885z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;x-close-cancel&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:14,&quot;id&quot;:6,&quot;name&quot;:&quot;x-close-cancel&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59654},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:10},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M512 659.103l-414.884-414.886-80.453 80.453 495.338 495.337 495.337-495.337-80.452-80.453-414.885 414.886z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;arrow-down&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:15,&quot;id&quot;:7,&quot;name&quot;:&quot;arrow-down&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59655},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:11},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M539.418 177.381c-99.973-99.975-262.063-99.975-362.037 0s-99.975 262.064 0 362.037c99.974 99.978 262.064 99.978 362.037 0 99.978-99.973 99.978-262.063 0-362.037zM104.973 104.973c139.964-139.964 366.89-139.964 506.852 0 127.672 127.672 138.885 327.703 33.638 468.083l363.54 363.54-72.407 72.407-363.54-363.54c-140.381 105.247-340.411 94.034-468.083-33.638-139.964-139.961-139.964-366.888 0-506.852z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;search&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:16,&quot;id&quot;:8,&quot;name&quot;:&quot;search&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59656},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:12},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M1345.338 116.539l-867.471 867.471-457.872-457.871 96.544-96.544 361.328 361.329 770.929-770.929 96.543 96.544z&quot;],&quot;width&quot;:1365,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;select-confirm&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:17,&quot;id&quot;:9,&quot;name&quot;:&quot;select-confirm&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59658},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:13},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M0 0h1194.667v170.667h-1194.667v-170.667zM0 426.667h1194.667v170.667h-1194.667v-170.667zM0 853.333h1194.667v170.667h-1194.667v-170.667z&quot;],&quot;width&quot;:1195,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;hamburguer-menu&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:18,&quot;id&quot;:10,&quot;name&quot;:&quot;hamburguer-menu&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59659},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:14},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M512 364.897l414.885 414.884 80.452-80.452-495.337-495.338-495.338 495.338 80.453 80.452 414.884-414.884z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;arrow-up&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:19,&quot;id&quot;:11,&quot;name&quot;:&quot;arrow-up&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59661},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:15},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M194.231 512l414.884-414.884-80.453-80.453-495.337 495.338 495.337 495.337 80.453-80.452-414.884-414.885z&quot;],&quot;width&quot;:626,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;arrow-left&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:20,&quot;id&quot;:12,&quot;name&quot;:&quot;arrow-left&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59662},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:16},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M431.547 512l-414.885 414.885 80.453 80.452 495.337-495.337-495.337-495.338-80.453 80.453 414.885 414.884z&quot;],&quot;width&quot;:626,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;arrow-right&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:21,&quot;id&quot;:13,&quot;name&quot;:&quot;arrow-right&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59663},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:17},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M720.175 35.701l67.807 283.018-269.056 69.107-23.161-90.164 132.757-34.099c-39.936-22.916-84.424-37.319-130.723-41.925-75.962-7.557-152.211 11.716-215.766 54.611-63.565 42.902-110.532 106.809-132.784 180.904-22.254 74.102-18.378 153.714 10.951 225.235 29.326 71.517 82.249 130.439 149.642 166.828 67.383 36.38 145.122 48.016 219.994 32.973 74.882-15.043 142.373-55.869 190.934-115.633 48.561-59.774 75.157-134.777 75.157-212.243h93.091c0 98.751-33.894 194.504-96 270.946-62.115 76.446-148.624 128.866-244.843 148.196-96.224 19.335-196.091 4.361-282.559-42.324-86.458-46.68-154.113-122.14-191.546-213.42-37.43-91.28-42.364-192.81-13.978-287.333 28.388-94.529 88.378-176.294 169.863-231.29 81.496-55.004 179.415-79.798 277.060-70.083 52.843 5.257 103.801 20.44 150.412 44.354l-27.783-115.968 90.531-21.69z&quot;],&quot;width&quot;:931,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;reload&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:22,&quot;id&quot;:14,&quot;name&quot;:&quot;reload&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59665},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:18},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M924.182 21.133l496.413 490.866-496.413 490.87-102.853-104.024 317.25-313.703h-1138.578v-146.286h1138.578l-317.25-313.705 102.853-104.019z&quot;],&quot;width&quot;:1463,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;link-in&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:23,&quot;id&quot;:15,&quot;name&quot;:&quot;link-in&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59669},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:19},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M455.111 455.111v-455.111h113.778v455.111h455.111v113.778h-455.111v455.111h-113.778v-455.111h-455.111v-113.778h455.111z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;plus-expand&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:24,&quot;id&quot;:16,&quot;name&quot;:&quot;plus-expand&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59670},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:20},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M0 455.111h1024v113.778h-1024v-113.778z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;minus-dash&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:25,&quot;id&quot;:17,&quot;name&quot;:&quot;minus-dash&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59671},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:21},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M512 102.4c226.217 0 409.6 183.384 409.6 409.6 0 226.217-183.383 409.6-409.6 409.6-226.216 0-409.6-183.383-409.6-409.6 0-226.216 183.384-409.6 409.6-409.6zM1024 512c0-282.77-229.233-512-512-512-282.77 0-512 229.23-512 512 0 282.767 229.23 512 512 512 282.767 0 512-229.233 512-512z&quot;,&quot;M358.4 256l409.6 256-409.6 256v-512z&quot;],&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;play&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:26,&quot;id&quot;:18,&quot;name&quot;:&quot;play&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59672},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:22},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M298.667 0v42.667c0-42.667 0.026-42.667 0.053-42.667l0.055 0 0.116 0 0.257 0.002 0.61 0.009c0.449 0.009 0.983 0.024 1.599 0.049 1.232 0.049 2.795 0.137 4.671 0.291 3.753 0.308 8.76 0.879 14.889 1.936 12.268 2.115 28.982 6.165 49.067 13.89 40.326 15.51 93.364 45.498 150.853 102.986 63.057 63.057 86.306 148.811 94.805 213.985 0.371 2.841 0.713 5.654 1.033 8.437 9.353-16.026 18.069-34.783 25.647-56.806l33.071-96.070 45.436 90.876-38.161 19.081c38.161-19.081 38.157-19.092 38.161-19.081l0.026 0.045 0.030 0.061 0.081 0.169 0.26 0.525 0.866 1.787c0.725 1.516 1.749 3.674 3.021 6.445 2.543 5.541 6.093 13.537 10.313 23.735 8.435 20.384 19.575 49.648 30.69 85.766 22.165 72.042 44.553 172.407 44.553 284.548 0 72.862-23.808 156.48-72.188 222.857-49.135 67.409-125.060 118.477-226.479 118.477h-54.865l13.542-53.295 0.145-0.589 0.614-2.505c0.538-2.236 1.323-5.559 2.27-9.779 1.903-8.452 4.446-20.416 6.989-34.321 5.18-28.314 9.971-62.673 9.971-91.511 0-53.525-29.308-102.302-63.697-140.471-13.243-14.699-26.556-27.051-37.819-36.608-3.437 4.838-7.085 10.462-10.772 16.913-17.679 30.942-37.045 82.317-37.045 160.166 0 39.215 4.913 73.677 9.838 98.3 2.454 12.267 4.887 21.978 6.659 28.476 0.885 3.243 1.603 5.679 2.071 7.219 0.234 0.768 0.406 1.314 0.506 1.626l0.070 0.222 18.72 56.158h-59.197c-72.522 0-148.796-24.777-204.004-83.089-55.912-59.051-85.039-146.982-73.104-262.626 9.815-95.095 38.49-151.885 75.386-198.379 13.783-17.37 28.909-33.481 42.954-48.439 3.56-3.793 7.051-7.511 10.433-11.157 17.293-18.644 33.626-37.293 48.896-60.070l2.321-3.462 2.947-2.947c13.030-13.029 23.945-35.835 31.186-68.419 7.073-31.829 9.651-68.431 9.651-104.078 0-35.416-2.537-68.523-5.099-92.867-1.277-12.13-2.549-21.983-3.491-28.737-0.471-3.375-0.858-5.969-1.122-7.679l-0.296-1.888-0.068-0.422-0.010-0.060-8.28-49.681h50.366zM264.67 931.861c-4.663-27.004-8.67-61.376-8.67-99.861 0-92.817 23.301-158.775 48.288-202.5 12.411-21.722 25.051-37.632 35.027-48.439 4.986-5.402 9.306-9.527 12.602-12.471 1.649-1.472 3.042-2.65 4.137-3.541 0.547-0.448 1.021-0.823 1.413-1.131l0.529-0.41 0.218-0.166 0.143-0.107c0.022-0.017 0.044-0.034 25.644 34.099 23.209-35.802 23.22-35.793 23.233-35.785l0.094 0.060 0.174 0.111 0.508 0.337 1.637 1.101c1.358 0.922 3.239 2.219 5.569 3.883 4.655 3.328 11.129 8.124 18.817 14.289 15.309 12.284 35.767 30.251 56.333 53.077 40.277 44.702 85.636 113.259 85.636 197.594 0 33.506-4.937 70.17-9.988 99.162 43.076-12.578 77.419-40.107 103.509-75.904 36.954-50.701 55.812-116.416 55.812-172.591 0-101.193-20.279-192.828-40.781-259.452-2.078-6.761-4.16-13.253-6.212-19.46-23.979 35.465-51.23 60.945-78.221 79.441l-76.809 52.638 10.274-92.471 0.009-0.051 0.013-0.162 0.115-1.195c0.102-1.135 0.256-2.935 0.418-5.338 0.333-4.804 0.713-11.984 0.866-21.007 0.307-18.112-0.311-43.295-3.981-71.425-7.501-57.492-26.918-121.072-70.528-164.682-44.325-44.324-83.598-67.663-112.157-80.007 2.016 23.436 3.66 51.748 3.66 81.837 0 39.020-2.756 82.418-11.683 122.589-8.451 38.031-23.412 77.717-51.074 107.081-18.327 26.813-37.394 48.342-55.016 67.337-4.163 4.489-8.168 8.759-12.038 12.885-13.695 14.601-25.701 27.401-37.068 41.724-26.816 33.792-49.208 75.23-57.347 154.099-9.967 96.563 14.94 157.965 50.187 195.196 23.39 24.704 53.577 41.143 86.708 49.617zM384 597.333l23.233-35.785-25.011-16.213-23.822 17.865 25.6 34.133z&quot;],&quot;width&quot;:811,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;hot&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:27,&quot;id&quot;:19,&quot;name&quot;:&quot;hot&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59673},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:23},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M444.996 107.846c-33.041 52.96-60.724 136.952-75.367 240.042 43.903 6.723 91.728 10.512 142.371 10.512s98.468-3.789 142.372-10.511c-14.643-103.090-42.327-187.083-75.366-240.043-21.775-3.58-44.155-5.446-67.005-5.446-22.85 0-45.229 1.866-67.004 5.446zM713.533 155.32c17.92 50.505 31.805 108.177 41.073 170.357 38.487-11.539 71.644-25.533 98.186-40.993-35.61-53.268-83.359-97.706-139.259-129.364zM898.642 376.414c-37.99 21.341-83.139 39.058-133.217 52.657 1.705 27.185 2.575 54.889 2.575 82.929 0 40.34-1.802 79.985-5.289 118.39 19.548-6.154 37.724-12.979 54.328-20.362 37.786-16.794 65.193-35.461 82.458-53.606 17.019-17.879 22.103-32.804 22.103-44.421 0-47.576-8.090-93.188-22.958-135.586zM879.048 693.985c-6.666 3.328-13.476 6.533-20.419 9.615-33.27 14.787-70.687 27.346-111.232 37.34-8.735 46.003-20.111 88.986-33.869 127.749 71.137-40.284 129.029-101.243 165.519-174.705zM579.005 916.152c23.475-37.622 44.242-90.911 59.551-155.587-40.602 4.874-83.036 7.434-126.556 7.434-43.522 0-85.956-2.56-126.558-7.434 15.31 64.676 36.080 117.965 59.554 155.587 21.775 3.584 44.154 5.448 67.004 5.448 22.851 0 45.23-1.864 67.005-5.448zM310.471 868.69c-13.754-38.764-25.132-81.746-33.868-127.749-40.543-9.994-77.961-22.554-111.232-37.34-6.941-3.082-13.753-6.287-20.42-9.615 36.491 73.462 94.382 134.42 165.519 174.705zM102.4 512c0 11.617 5.084 26.542 22.101 44.421 17.268 18.145 44.675 36.813 82.459 53.606 16.607 7.383 34.782 14.208 54.33 20.362-3.486-38.405-5.289-78.049-5.289-118.39 0-28.039 0.871-55.743 2.573-82.929-50.075-13.599-95.226-31.316-133.215-52.657-14.867 42.398-22.959 88.010-22.959 135.586zM171.207 284.684c26.543 15.46 59.7 29.454 98.189 40.993 9.265-62.18 23.151-119.852 41.071-170.357-55.898 31.658-103.652 76.097-139.26 129.364zM359.947 449.956c-1.017 20.219-1.547 40.923-1.547 62.044 0 50.207 2.994 98.048 8.403 142.638 44.995 7.045 93.852 10.962 145.197 10.962 51.343 0 100.204-3.917 145.198-10.962 5.407-44.59 8.402-92.431 8.402-142.638 0-21.121-0.527-41.824-1.546-62.044-48.512 7.119-99.697 10.844-152.054 10.844-52.359 0-103.543-3.725-152.053-10.844zM1024 512c0 245.699-173.010 450.867-403.814 500.536-34.918 7.516-71.122 11.464-108.186 11.464-37.065 0-73.267-3.948-108.186-11.464-230.801-49.669-403.814-254.838-403.814-500.536 0-85.148 20.825-165.581 57.705-236.341 69.294-132.952 195.268-231.734 346.109-264.197 34.919-7.515 71.121-11.462 108.186-11.462 37.064 0 73.267 3.947 108.186 11.462 150.84 32.463 276.818 131.245 346.112 264.197 36.879 70.759 57.702 151.193 57.702 236.341z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;globe-language&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:28,&quot;id&quot;:20,&quot;name&quot;:&quot;globe-language&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59674},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:24},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M839.982 107.801l-194.592-0.011 0.005-107.789 378.584 0.022 0.022 378.557-107.789 0.006-0.011-194.565-540.425 540.424-76.218-76.218 540.425-540.424z&quot;,&quot;M0 161.684h485.053v107.789h-377.263v646.737h646.737v-377.263h107.789v485.053h-862.316v-862.316z&quot;],&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;link-out&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:29,&quot;id&quot;:21,&quot;name&quot;:&quot;link-out&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59680},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:25},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M120.947 284.444h-120.947v-113.778h120.947c25.261-98.146 114.355-170.667 220.386-170.667s195.125 72.52 220.386 170.667h462.28v113.778h-462.28c-25.261 98.146-114.355 170.667-220.386 170.667s-195.125-72.52-220.386-170.667zM903.054 739.556h120.946v113.778h-120.946c-25.264 98.145-114.358 170.667-220.388 170.667s-195.125-72.522-220.386-170.667h-462.28v-113.778h462.28c25.261-98.145 114.357-170.667 220.386-170.667s195.123 72.522 220.388 170.667zM341.333 341.333c62.838 0 113.778-50.94 113.778-113.778s-50.94-113.778-113.778-113.778c-62.838 0-113.778 50.94-113.778 113.778s50.94 113.778 113.778 113.778zM682.667 910.222c62.839 0 113.778-50.938 113.778-113.778s-50.938-113.778-113.778-113.778c-62.839 0-113.778 50.938-113.778 113.778s50.938 113.778 113.778 113.778z&quot;],&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;filter&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:30,&quot;id&quot;:22,&quot;name&quot;:&quot;filter&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59664},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:26},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M791.234 266.567l248.207 245.433-248.207 245.435-51.427-52.012 158.625-156.851h-898.432v-73.143h898.432l-158.625-156.852 51.427-52.010z&quot;],&quot;width&quot;:1061,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;link-in-card&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:37,&quot;id&quot;:23,&quot;name&quot;:&quot;link-in-card&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59681},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:27},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M485.053 184.008l393.049 393.048 76.218-76.218-469.267-469.267-469.267 469.267 76.219 76.218 393.048-393.048z&quot;,&quot;M485.053 615.165l393.049 393.049 76.218-76.218-469.267-469.268-469.267 469.268 76.219 76.218 393.048-393.049z&quot;],&quot;width&quot;:970,&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;double-arrow-up&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:32,&quot;id&quot;:24,&quot;name&quot;:&quot;double-arrow-up&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59682},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:28},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M485.053 839.993l-393.048-393.049-76.219 76.219 469.267 469.266 469.267-469.266-76.218-76.219-393.049 393.049z&quot;,&quot;M485.053 408.834l-393.048-393.049-76.219 76.219 469.267 469.266 469.267-469.266-76.218-76.219-393.049 393.049z&quot;],&quot;width&quot;:970,&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;double-arrow-down&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:34,&quot;id&quot;:25,&quot;name&quot;:&quot;double-arrow-down&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59683},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:29},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M194.231 512l414.884-414.884-80.452-80.453-495.338 495.338 495.337 495.337 80.453-80.452-414.884-414.885z&quot;,&quot;M649.341 512l414.885-414.884-80.452-80.453-495.338 495.338 495.338 495.337 80.452-80.452-414.885-414.885z&quot;],&quot;width&quot;:1081,&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;double-arrow-left&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:33,&quot;id&quot;:26,&quot;name&quot;:&quot;double-arrow-left&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59684},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:30},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M886.659 512l-414.886 414.885 80.453 80.452 495.337-495.337-495.337-495.338-80.453 80.453 414.886 414.884z&quot;,&quot;M431.547 512l-414.885 414.885 80.453 80.452 495.337-495.337-495.337-495.338-80.453 80.453 414.885 414.884z&quot;],&quot;width&quot;:1081,&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;double-arrow-right&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:35,&quot;id&quot;:27,&quot;name&quot;:&quot;double-arrow-right&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59685},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:31},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M284.444 0h682.667v341.333h-284.444v113.778h455.111v227.556h113.778v341.333h-341.333v-341.333h113.778v-113.778h-341.333v113.778h113.778v341.333h-341.333v-341.333h113.778v-113.778h-341.333v113.778h113.778v341.333h-341.333v-341.333h113.778v-227.556h455.111v-113.778h-284.444v-341.333zM227.556 796.444h-113.778v113.778h113.778v-113.778zM682.667 796.444h-113.778v113.778h113.778v-113.778zM1137.778 796.444h-113.778v113.778h113.778v-113.778zM398.222 113.778v113.778h455.111v-113.778h-455.111z&quot;],&quot;width&quot;:1252,&quot;attrs&quot;:[{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;sitemap&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{}],&quot;properties&quot;:{&quot;order&quot;:36,&quot;id&quot;:28,&quot;name&quot;:&quot;sitemap&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59686},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:32},{&quot;icon&quot;:{&quot;paths&quot;:[&quot;M479.108 156.963c-86.966-36.023-180.176-54.563-274.308-54.563v-102.4c107.579 0 214.105 21.189 313.492 62.358 99.389 41.168 189.701 101.51 265.769 177.58s136.412 166.378 177.582 265.767c41.165 99.391 62.356 205.918 62.356 313.495h-102.4c0-94.131-18.54-187.341-54.564-274.309-36.024-86.965-88.822-165.984-155.382-232.545s-145.582-119.36-232.547-155.382zM361.547 440.779c-49.695-20.584-102.958-31.179-156.747-31.179v-102.4c67.237 0 133.815 13.243 195.934 38.973s118.562 63.444 166.107 110.988c47.544 47.544 85.253 103.986 110.986 166.107 25.728 62.116 38.973 128.696 38.973 195.932h-102.4c0-53.791-10.593-107.054-31.181-156.749-20.582-49.695-50.755-94.848-88.788-132.884-38.034-38.032-83.189-68.204-132.883-88.788z&quot;,&quot;M409.6 768c0 84.833-68.769 153.6-153.6 153.6s-153.6-68.767-153.6-153.6c0-84.833 68.769-153.6 153.6-153.6s153.6 68.767 153.6 153.6z&quot;],&quot;attrs&quot;:[{},{}],&quot;isMulticolor&quot;:false,&quot;isMulticolor2&quot;:false,&quot;tags&quot;:[&quot;rss&quot;],&quot;grid&quot;:0},&quot;attrs&quot;:[{},{}],&quot;properties&quot;:{&quot;order&quot;:30,&quot;id&quot;:29,&quot;name&quot;:&quot;rss&quot;,&quot;prevSize&quot;:32,&quot;code&quot;:59657},&quot;setIdx&quot;:1,&quot;setId&quot;:1,&quot;iconIdx&quot;:33}],&quot;height&quot;:1024,&quot;metadata&quot;:{&quot;name&quot;:&quot;osicons&quot;},&quot;preferences&quot;:{&quot;showGlyphs&quot;:true,&quot;showQuickUse&quot;:true,&quot;showQuickUse2&quot;:true,&quot;showSVGs&quot;:true,&quot;fontPref&quot;:{&quot;prefix&quot;:&quot;icon-&quot;,&quot;metadata&quot;:{&quot;fontFamily&quot;:&quot;osicons&quot;,&quot;majorVersion&quot;:1,&quot;minorVersion&quot;:0,&quot;description&quot;:&quot;Font generated by IcoMoon.&quot;},&quot;metrics&quot;:{&quot;emSize&quot;:1024,&quot;baseline&quot;:6.25,&quot;whitespace&quot;:50},&quot;embed&quot;:false,&quot;noie8&quot;:false,&quot;ie7&quot;:false,&quot;showSelector&quot;:false,&quot;showMetrics&quot;:false,&quot;includeMetadata&quot;:true},&quot;imagePref&quot;:{&quot;prefix&quot;:&quot;icon-&quot;,&quot;png&quot;:true,&quot;useClassSelector&quot;:true,&quot;color&quot;:0,&quot;bgColor&quot;:16777215,&quot;classSelector&quot;:&quot;.icon&quot;,&quot;name&quot;:&quot;icomoon&quot;},&quot;historySize&quot;:50,&quot;showCodes&quot;:true,&quot;gridSize&quot;:16}}</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm5 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM13 7.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"/></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/outsystems-cx/os-portal-theme/blame/9b5fee479b8cb365f0487b3579ced8c1a80fec91/fonts/osicons-v2.json">View git blame</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+  </div>
+
+    </div>
+
+  
+
+  <details class="details-reset details-overlay details-overlay-dark">
+    <summary data-hotkey="l" aria-label="Jump to line"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
+        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+        <button type="submit" class="btn" data-close-dialog>Go</button>
+</form>    </details-dialog>
+  </details>
+
+
+
+  </div>
+</div>
+
+    </main>
+  </div>
+  
+
+  </div>
+
+        
+<div class="footer container-lg width-full p-responsive" role="contentinfo">
+  <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      <li class="mr-3 mr-lg-0">&copy; 2020 GitHub, Inc.</li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" integrity="sha512-2GtXiukHeT1/Kt5UHrVa2iMiBF1fCLQILWG0UKazKtQXjLZpcurZ6AXlkiTZFUeEtVWjoV8LvyppgPp9rkQMUA==" type="application/javascript" src="https://github.githubassets.com/assets/environment-bootstrap-d86b578a.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-o4vS4IKrjdy/HD+xr2+VhO6DxQmj5jikhHbEGrd8+JGhpmIOxRrpT1Qo5k3IhKimm8VXIu3pyYejLtOAkm+OsQ==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-a38bd2e0.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-b/eiTgUmQXvFSyXcioklOO+SOVe85tsZw2OyDiixI8/rzI71a+4eh2LljU/7co1ItCsS9iSI+wp+2BB0SMfK8A==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-6ff7a24e.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-NfTVyRxwBPtNBYufyzMju4nWjLIjZ08N1+TmHaG4yUaLsT32mQ03TvQdbdyCCsqpsOfrnqk3IPdJfM59nKILHQ==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-35f4d5c9.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-LDyYNiA28lPzA3Mtzr1Y1ox1aqMIwHly2R1o/XENefJO1imnnETZMhzKozajhZ6t45vH5+Kja38mozkwO/ry9g==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-2c3c9836.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+  </body>
+</html>
+
